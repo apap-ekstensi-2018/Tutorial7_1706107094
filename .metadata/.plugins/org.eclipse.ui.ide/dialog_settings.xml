@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\Users\Yogine\Documents\GitHub\Tutorial5_1706107094\Tutorial5_1706107094"/>
+		<item value="C:\Users\Yogine\Documents\GitHub\Tutorial07\Tutorial5_1706107094"/>
+		<item value="C:\Users\Yogine\Documents\GitHub\Tutorial07\Tutorial4_1706107094"/>
+		<item value="C:\Users\Yogine\Documents\GitHub\Tutorial07\Tutorial07_Customer"/>
+		<item value="C:\Users\Yogine\Documents\GitHub\Tutorial07\Tutorial07_Producer"/>
+		<item value="C:\Users\Yogine\Documents\GitHub\Tutorial5_1706107094"/>
+		<item value="C:\Users\Yogine\Documents\GitHub\Tutorial4_1706107094"/>
+	</list>
+	<section name="org.eclipse.ui.internal.ide.dialogs.ProjectContentsLocationArea">
+		<item value="C:\Users\Yogine\Documents\GitHub\Tutorial07\Tutorial07Customer" key="OUTSIDE_LOCATION"/>
+	</section>
+</section>
