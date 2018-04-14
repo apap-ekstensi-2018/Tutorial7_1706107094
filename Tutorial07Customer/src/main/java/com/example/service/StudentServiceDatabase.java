@@ -41,7 +41,7 @@ public class StudentServiceDatabase implements StudentService
     }
 
 
-    @Override
+   /* @Override
     public boolean addStudent (StudentModel student)
     {
         return studentMapper.addStudent (student);
@@ -59,7 +59,16 @@ public class StudentServiceDatabase implements StudentService
     public boolean updateStudent (StudentModel student)
     {
        return studentMapper.updateStudent (student);
-    }
+    }*/
+    
+    @Override
+	public void addStudent(StudentModel student) {}
+
+	@Override
+	public void deleteStudent(String npm) {}
+
+	@Override
+	public void updateStudent(StudentModel student) {}
 
 }
 	

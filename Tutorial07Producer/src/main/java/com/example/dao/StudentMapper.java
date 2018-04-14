@@ -22,7 +22,6 @@ public interface StudentMapper
     @Insert("INSERT INTO student (npm, name, gpa) VALUES (#{npm}, #{name}, #{gpa})")
     void addStudent (StudentModel student);
     
-
     @Insert("DELETE from student where npm = #{npm}")
     void deleteStudent (String npm);
     
